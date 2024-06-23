@@ -10,4 +10,4 @@ Looking to increase my skills in cybersecurity and penetration testing.
 - **Learning Resources**
 
 ## Connect
-- [LinkedIn]
+- [https://www.linkedin.com/in/cjoddo/]
