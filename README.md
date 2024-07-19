@@ -8,11 +8,6 @@
 - 🌍 In my free time, I enjoy working out, reading, participating in CTF challenges, playing the piano, and the occasional classic gaming
 - 📝 Check out my blog CTF writeups, which can be found at [Blog](https://jigsaws64.github.io/)
 
-<!-- Add your personal links here -->
-[Your Website]()
-[LinkedIn]()
-[Digital Notes]()
-
 
 ## // Connect with me
 
