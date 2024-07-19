@@ -1,13 +1,20 @@
-# whoami
+# Welcome to my page 😈
 
-## Focus
+![Profile views](https://img.shields.io/badge/Profile%20views-1,440-blue)
 
-Looking to increase my skills in cybersecurity and penetration testing.
+## // whoami
 
-## Projects
+- 💀 I am currently pursuing my OSCP certification with the aim of securing a junior penetration tester role
+- 🌍 In my free time, I enjoy working out, reading, participating in CTF challenges, playing the piano, and the occasional classic gaming
+- 📝 Check out my blog CTF writeups, which can be found at [Blog](https://jigsaws64.github.io/)
 
-- **Penetration Testing Simulations**
-- **Learning Resources**
+<!-- Add your personal links here -->
+[Your Website]()
+[LinkedIn]()
+[Digital Notes]()
 
-## Connect
-- [https://www.linkedin.com/in/cjoddo/]
+
+## // Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/CJ%20ODDO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjoddo/)
+[![YouTube](https://img.shields.io/badge/JIGSAW64-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOpL5NKvSIVZ3iOxrAGAtzw)
