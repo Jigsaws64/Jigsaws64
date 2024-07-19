@@ -6,8 +6,8 @@
 
 ## // whoami
 
-- 💀 I am currently pursuing my OSCP certification with the aim of securing a junior penetration tester role
-- 🌍 In my free time, I enjoy working out, reading, participating in CTF challenges, playing the piano, and the occasional classic gaming
+- 💀 Currently pursuing my OSCP certification with the aim of securing a junior penetration tester role
+- 🌍 I enjoy working out, reading, participating in CTF challenges, playing the piano, and the occasional classic gaming
 - 📝 Check out my blog CTF writeups, which can be found at [Blog](https://jigsaws64.github.io/)
 
 
