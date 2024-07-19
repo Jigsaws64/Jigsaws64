@@ -1,8 +1,15 @@
 # Welcome to my page 😈
 
+
+
+![image](https://github.com/user-attachments/assets/9a8c4ae1-5f3d-48ff-9124-216485748fdd)
+
+
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=435&lines=Aspiring+Pen+Tester;Jigsaw64)
 
 ![Profile views](https://img.shields.io/badge/Profile%20views-1,440-blue)
+
 
 ## // whoami
 
