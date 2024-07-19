@@ -1,5 +1,7 @@
 # Welcome to my page 😈
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Cyber+Security+Student;Jigsaw+64)
+
 ![Profile views](https://img.shields.io/badge/Profile%20views-1,440-blue)
 
 ## // whoami
