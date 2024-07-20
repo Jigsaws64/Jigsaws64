@@ -1,14 +1,14 @@
-<p align="center">
-  <img width="100%" src="/assets/Jigsaw64_Pixlr.png" alt="Banner Image">
-</p>
+<div align="center">
+  <img width="95%" style="margin-left: -5%;" src="/assets/Jigsaw64_Pixlr.png" alt="Banner Image">
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Welcome+to+my+page" alt="Typing SVG">
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Profile%20views-1,440-blue" alt="Profile views">
-</p>
+</div>
 
 ## // whoami
 
@@ -18,9 +18,11 @@
 
 ## // Connect with me
 
-<a href="https://www.linkedin.com/in/cjoddo/">
-  <img src="https://img.shields.io/badge/CJ%20ODDO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.youtube.com/channel/UCOpL5NKvSIV23IOxrAGAtZW">
-  <img src="https://img.shields.io/badge/JIGSAW64-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/cjoddo/">
+    <img src="https://img.shields.io/badge/CJ%20ODDO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/channel/UCOpL5NKvSIV23IOxrAGAtZW">
+    <img src="https://img.shields.io/badge/JIGSAW64-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</div>
