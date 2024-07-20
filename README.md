@@ -5,7 +5,7 @@
 
 <!-- Welcome typing font -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Welcome+to+my+page" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=4000&pause=1200&color=FF0000&center=true&vCenter=true&width=700&lines=Welcome+to+my+page+:)" alt="Typing SVG">
 </p>
 
 <!-- Profile views -->
