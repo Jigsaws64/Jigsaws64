@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="95%" style="margin-left: -5%;" src="/assets/Jigsaw64_Pixlr.png" alt="Banner Image">
+  <img width="95%" style="margin-left: -10%;" src="/assets/Jigsaw64_Pixlr.png" alt="Banner Image">
 </div>
 
 <div align="center">
