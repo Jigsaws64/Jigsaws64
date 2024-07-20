@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" src="/assets/Jigsaw64_Pixlr.png" alt="Banner Image">
+  <img width="70%" src="/assets/Jigsaw64_Pixlr.png" alt="Banner Image">
 </p>
 
 <p align="center">
