@@ -18,11 +18,11 @@
 
 ## // Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/cjoddo/">
     <img src="https://img.shields.io/badge/CJ%20ODDO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.youtube.com/channel/UCOpL5NKvSIV23IOxrAGAtZW">
+  <a href="https://www.youtube.com/channel/UCOpL5NKvSIVZ3iOxrAGAtzw">
     <img src="https://img.shields.io/badge/JIGSAW64-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
