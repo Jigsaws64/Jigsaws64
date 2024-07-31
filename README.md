@@ -16,7 +16,7 @@
 <!-- About Me -->
 ## // whoami
 
-- 💼 Currently pursuing my OSCP certification with the aim of securing a junior penetration tester role
+- 💼 Currently pursuing my OSCP certification
 - 🌐 I enjoy working out, reading, participating in CTF challenges, playing the piano, and the occasional classic gaming
 - 📝 Check out my blog CTF writeups, which can be found on my [Blog](https://jigsaws64.github.io/)
 
